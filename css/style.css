@@ -1,0 +1,57 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: beige;
+    color: black;
+}
+
+/* Header */
+header {
+    background-color: #4B3621; /* Dark brown */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Logo */
+.logo {
+    width: 100px; /* Adjust size as needed */
+}
+
+/* Products Section */
+#products {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.product {
+    text-align: center;
+}
+
+.product img {
+    width: 150px; /* Adjust size as needed */
+}
+
+/* Footer */
+footer {
+    background-color: #4B3621; /* Dark brown */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
