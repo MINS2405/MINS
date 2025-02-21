@@ -1,3 +1,7 @@
+<img src="images/crown-logo.png" alt="Logo MINS" class="logo">
+
+<img src="images/sneaker.jpg" alt="Sneaker MINS" class="product-image">
+
 # Website - MINS Sneakers
 
 This project is a website for the MINS sneaker brand, showcasing an elegant collection of shoes.
