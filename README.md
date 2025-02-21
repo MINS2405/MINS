@@ -1,4 +1,4 @@
-![MINS](c:\Users\selve\Downloads\Capture d'écran 2025-02-21 105023.png)
+![Logo MINS](images/Capture-d-ecran-2025-02-21-105023.jpg)
 
 # Website - MINS Sneakers
 
