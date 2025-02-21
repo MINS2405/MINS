@@ -1,12 +1,4 @@
-<img src="images/crown-logo.png" alt="Logo MINS" class="logo">
-
-<img src="c:\Users\selve\Downloads\Capture d'écran 2025-02-21 102127.png![Logo MINS](images/crown-logo.png)
-
-![Sneaker MINS](c:\Users\selve\Downloads\Capture d'écran 2025-02-21 102127.png/sneaker.jpg)
-
-# Website - MINS Sneakers
-
-This project is a website for the MINS sneaker brand, showcasing an elegant collection of shoes./sneaker.jpg" alt="Sneaker MINS" class="product-image">
+![MINS](c:\Users\selve\Downloads\Capture d'écran 2025-02-21 105023.png)
 
 # Website - MINS Sneakers
 
