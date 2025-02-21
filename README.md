@@ -1,4 +1,4 @@
-![Logo MINS](images/Capture-d-ecran-2025-02-21-105023.jpg)
+![MINS](https://github.com/MINS2405/MINS/blob/main/image.png?raw=true)
 
 # Website - MINS Sneakers
 
