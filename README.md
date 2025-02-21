@@ -1,6 +1,6 @@
 <img src="images/crown-logo.png" alt="Logo MINS" class="logo">
 
-<img src="images/sneaker.jpg" alt="Sneaker MINS" class="product-image">
+<img src="c:\Users\selve\Downloads\Capture d'écran 2025-02-21 102127.png/sneaker.jpg" alt="Sneaker MINS" class="product-image">
 
 # Website - MINS Sneakers
 
