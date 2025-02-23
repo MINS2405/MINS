@@ -7,25 +7,25 @@
  # 👑 WEBSITE - MINS SNEAKERS ![MINS](https://img.shields.io/badge/MINS-Sneakers-gold)
 *This project is a website for the MINS sneaker brand, showcasing an elegant collection of shoes.*
 
-- [FEATURES](#Features)
+- [Features](#Features)
 
-- [TECHNOLOGIES](#Technologies)
+- [Technologie](#Technologies)
 
-- [PROJECT](#Project)
+- [Projet Structure](#Project)
 
-- [INSTALLATION](#Installation)
+- [Installation](#Installation)
 
-- [USAGE](#Usage)
+- [Usage](#Usage)
 
-- [MAGES](#Image)
+- [Image](#Image)
 
-- [STYLE](#Style)
+- [CSS Style](#Style)
 
-- [ONTRIBUTING](#Contributing)
+- [Contributing](#Contributing)
 
-- [LICENSE](#License)
+- [License](#License)
 
-- [AUTHOR](#Author)
+- [Author](#Author)
 
 
 ## 🌟 Features ![FEATURES](https://img.shields.io/badge/FEATURES-blue)
@@ -56,7 +56,7 @@
 ## 🖼️ Images ![IMAGES](https://img.shields.io/badge/PROJECT-rose)
 - All product images are sourced from [Freepik](https://www.freepik.com/).
 
-## 🎨 CSS Styling ![STYLE](https://img.shields.io/badge/STYLE-blue)
+## 🎨 CSS Style ![STYLE](https://img.shields.io/badge/STYLE-blue)
 - The `style.css` file is organized using a modular approach.
 
 ## 🤝 Contributing ![CONTRIBUTING](https://img.shields.io/badge/CONTRIBUTING-brown)
