@@ -1,23 +1,40 @@
 body {
-    background-color: #f0f0f0;
+    background-image: url("img/logo-mins.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 700px auto;
+    background-color: #f5f7fa3b;
+    min-height: 100vh;
     font-family: Arial, sans-serif;
-    margin: 40px;
+    margin: 0;
+    padding: 0;
 }
 
-h1 {
-    color: #3498db;
+main {
+    max-width: 700px;
+    margin: 60px auto 0 auto;
+    background: rgba(255,255,255,0.85);
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+h1, p, button {
+    position: relative;
+    z-index: 1;
 }
 
 button {
-    background-color: #2ecc71;
+    background-color: #3498db;
     color: white;
     border: none;
     padding: 10px 20px;
+    border-radius: 6px;
     font-size: 16px;
-    border-radius: 5px;
     cursor: pointer;
+    margin-top: 20px;
 }
 
 button:hover {
-    background-color: #27ae60;
+    background-color: #217dbb;
 }
