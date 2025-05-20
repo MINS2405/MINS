@@ -38,3 +38,13 @@ button {
 button:hover {
     background-color: #217dbb;
 }
+
+body {
+    background: rgba(109, 109, 103, 0.537) !important;
+    .description {
+    color: rgba(255, 81, 0, 0.156) !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+}
